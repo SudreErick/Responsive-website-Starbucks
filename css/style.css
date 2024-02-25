@@ -61,19 +61,19 @@ header ul li a
 .content .textBox
 {
     position: relative;
-    max-width: 1024px;
+    max-width: 800px;
 }
 .content .textBox h2
 {
     color: #333;
-    font-size: 5em;
-    line-height: 2.4em;
+    font-size: 2.5em;
+    line-height: 1.5em;
     font-weight: 500;
 }
 .content .textBox h2 span
 {
     color: #017143;
-    font-size: 2.2em;
+    font-size: 1.5em;
     font-weight: 900;
 }
 .content .textBox p
